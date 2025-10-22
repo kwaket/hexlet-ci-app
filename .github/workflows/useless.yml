@@ -1,0 +1,9 @@
+name: checking
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Клонируем репозиторий
+      - uses: actions/checkout@v4
+      - uses: hexlet-components/hello-from-hexlet-action@release
