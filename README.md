@@ -2,6 +2,8 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+[![checking](https://github.com/kwaket/hexlet-ci-app/actions/workflows/checking.yml/badge.svg)](https://github.com/kwaket/hexlet-ci-app/actions/workflows/checking.yml)
+
 ## System requirements
 
 * NodeJS >= 18
